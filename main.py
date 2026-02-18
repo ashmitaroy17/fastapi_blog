@@ -44,4 +44,4 @@ def get_posts():
 
 
 #in terminal using "uv run" before fastAPI dev is to make things automatically updating, we can use just fastapi run,
-# we use pip,
+# we use pip, instead of uv
